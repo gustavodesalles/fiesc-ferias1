@@ -1,0 +1,3 @@
+interface Gerente {
+    void gerenciar();
+}
