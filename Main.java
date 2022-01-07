@@ -7,6 +7,7 @@ public class Main {
     static int idTrabalhadores = 0;
 
     public static void addFuncionario() {
+        scanner.nextLine();
         System.out.print("Digite o seu nome: ");
         String nome = scanner.nextLine();
 
